@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Public Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.categori-active {
+  background-color: rgb(59, 3, 190);
+  color: white;
+}
+
+.navbar {
+  background-color: rgb(59, 3, 190);
+}
